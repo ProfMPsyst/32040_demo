@@ -15,6 +15,10 @@ public class DemoGit {
      */
     public static void main(String[] args) {
         System.out.println("hello this is my first git operation");
+        
+        int a;
+        int b;
+        int c=a+b;
     }
     
 }
