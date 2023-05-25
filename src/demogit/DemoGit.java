@@ -16,8 +16,8 @@ public class DemoGit {
     public static void main(String[] args) {
         System.out.println("hello this is my first git operation");
         
-        int a;
-        int b;
+        int a=10;
+        int b=20;
         int c=a+b;
     }
     
